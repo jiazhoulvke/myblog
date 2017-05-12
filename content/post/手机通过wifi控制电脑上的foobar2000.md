@@ -68,11 +68,11 @@ draft = false
 
 用go编译后生成foobar2k_web.exe,双击运行后会弹出个控制台窗口，显示”started!”。
 
-<img style="opacity: 1;" lazyloadpass="1" title="foobar2k_web.JPG" src="http://www.jiazhoulvke.com/wp-content/uploads/2012/04/foobar2k_web.jpg" file="http://www.jiazhoulvke.com/wp-content/uploads/2012/04/foobar2k_web.jpg" class="aligncenter lh_lazyimg"><noscript><img title="foobar2k_web.JPG" src="http://www.jiazhoulvke.com/wp-content/uploads/2012/04/foobar2k_web.jpg" class="aligncenter" /></noscript>
+<img style="opacity: 1;" lazyloadpass="1" title="foobar2k_web.JPG" src="/static/wp-content/uploads/2012/04/foobar2k_web.jpg" file="/static/wp-content/uploads/2012/04/foobar2k_web.jpg" class="aligncenter lh_lazyimg"><noscript><img title="foobar2k_web.JPG" src="/static/wp-content/uploads/2012/04/foobar2k_web.jpg" class="aligncenter" /></noscript>
 
 然后用手机连接wifi，访问 http://电脑端的ip:端口号/路径 ,比如我的电脑端的ip地址是192.168.1.3,定义的端口号是9527,定义的路径是/foobar2k，那么就可以访问 http://192.168.1.3:9527/foobar2k ，不出意外的话在手机上就能看到如下界面：
 
-<img style="opacity: 1;" lazyloadpass="1" title="foobar2k_web_phone.png" src="http://www.jiazhoulvke.com/wp-content/uploads/2012/04/foobar2k_web_phone.png" file="http://www.jiazhoulvke.com/wp-content/uploads/2012/04/foobar2k_web_phone.png" class="aligncenter lh_lazyimg"><noscript><img title="foobar2k_web_phone.png" src="http://www.jiazhoulvke.com/wp-content/uploads/2012/04/foobar2k_web_phone.png" class="aligncenter" /></noscript>
+<img style="opacity: 1;" lazyloadpass="1" title="foobar2k_web_phone.png" src="/static/wp-content/uploads/2012/04/foobar2k_web_phone.png" file="/static/wp-content/uploads/2012/04/foobar2k_web_phone.png" class="aligncenter lh_lazyimg"><noscript><img title="foobar2k_web_phone.png" src="/static/wp-content/uploads/2012/04/foobar2k_web_phone.png" class="aligncenter" /></noscript>
 
 点击手机上的按钮，foobar2000就会做出相应动作，假如foobar2000还没有启动的话，则会自动启动。
 

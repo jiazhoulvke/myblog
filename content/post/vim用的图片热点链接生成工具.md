@@ -18,10 +18,10 @@ c#的代码比较分散，就不贴上来了，程序和源文件我都打包传
 
 下面是截图:
 
-[![](http://www.jiazhoulvke.com/wp-content/uploads/2011/05/11.png)](http://jiazhoulvke.com/?attachment_id=85)
+[![](/static/wp-content/uploads/2011/05/11.png)](http://jiazhoulvke.com/?attachment_id=85)
 
-[![](http://www.jiazhoulvke.com/wp-content/uploads/2011/05/2.png)](http://jiazhoulvke.com/?attachment_id=86)
+[![](/static/wp-content/uploads/2011/05/2.png)](http://jiazhoulvke.com/?attachment_id=86)
 
-[![](http://www.jiazhoulvke.com/wp-content/uploads/2011/05/3.png)](http://jiazhoulvke.com/?attachment_id=87)
+[![](/static/wp-content/uploads/2011/05/3.png)](http://jiazhoulvke.com/?attachment_id=87)
 
-[![](http://www.jiazhoulvke.com/wp-content/uploads/2011/05/4.png)](http://jiazhoulvke.com/?attachment_id=88)
+[![](/static/wp-content/uploads/2011/05/4.png)](http://jiazhoulvke.com/?attachment_id=88)

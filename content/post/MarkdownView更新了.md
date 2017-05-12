@@ -9,6 +9,6 @@ draft = false
 +++
 
 加了自定义样式表的功能，没有定义的话默认使用仿github的样式。
-[![MarkdownView](http://www.jiazhoulvke.com/wp-content/uploads/2013/07/MarkdownView.png)](http://www.jiazhoulvke.com/?attachment_id=238)
+[![MarkdownView](/static/wp-content/uploads/2013/07/MarkdownView.png)](http://www.jiazhoulvke.com/?attachment_id=238)
 
 项目地址: https://github.com/jiazhoulvke/MarkdownView

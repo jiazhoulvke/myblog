@@ -10,13 +10,13 @@ draft = false
 
 由于经常需要在vim里看一些英文帮助文档，又没有长年累月的运行一个翻译软件的习惯，所以还是写了个插件来搞定,用了python，所以windows下得确保安装了python。
 
-![](http://www.jiazhoulvke.com/wp-content/uploads/2012/04/i1.png)
+![](/static/wp-content/uploads/2012/04/i1.png)
 
 使用方法有几种：
 
 1.将光标移动到需要翻译的英文单词上，按&lt;leader&gt;e2c(把中文翻译成英文就是&lt;leader&gt;c2e，下面就不多说了)。
 
-![](http://jiazhoulvke.com/wp-content/uploads/2012/04/i2.png)
+![](/static/wp-content/uploads/2012/04/i2.png)
 
 2.选中需要翻译的英文，按&lt;leader&gt;e2c。
 

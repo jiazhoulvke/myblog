@@ -8,7 +8,7 @@ url = "/2014/02/08/e697b6e99a94e4b8a4e5b9b4efbc8cmyprojecte7bb88e4ba8ee69bb4e696
 draft = false
 +++
 
-[2012年6月我写了myproject这个插件](http://www.jiazhoulvke.com/170.html)，还只是个半成品，不过凑合着也能用，就这样一直用下去了。每次想完善一下的时候就想着先凑合着用，等有时间再改，就这样居然拖了近两年……这次终于下定决心，利用过年前的空闲时间完全重写了myproject。其实真的写起来一天就搞定了，剩下几天都是测试、修复bug。
+[2012年6月我写了myproject这个插件](http://www.jiazhoulvke.com/2012/06/28/e68891e79a84e9a1b9e79baee7aea1e79086e68f92e4bbb6myproject/)，还只是个半成品，不过凑合着也能用，就这样一直用下去了。每次想完善一下的时候就想着先凑合着用，等有时间再改，就这样居然拖了近两年……这次终于下定决心，利用过年前的空闲时间完全重写了myproject。其实真的写起来一天就搞定了，剩下几天都是测试、修复bug。
 
 ## 更新内容
 
@@ -40,13 +40,13 @@ draft = false
 
 * 加入"question"参数(即:MPCreate question)，myproject会一一询问你是否需要开启某个选项，然后将结果保存到project.vim中。见下图:
 
-[![MPCreate_question.png](http://www.jiazhoulvke.com/wp-content/uploads/2014/02/MPCreate_question.png)](http://www.jiazhoulvke.com/wp-content/uploads/2014/02/MPCreate_question.png)
+[![MPCreate_question.png](/static/wp-content/uploads/2014/02/MPCreate_question.png)](/static/wp-content/uploads/2014/02/MPCreate_question.png)
 
 ### :MPProjectList
 
 输入 :MPProjectList 会打开项目列表窗口，列出所有你创建的项目。
 
-[![MPProjectList.png](http://www.jiazhoulvke.com/wp-content/uploads/2014/02/MPProjectList.png)](http://www.jiazhoulvke.com/wp-content/uploads/2014/02/MPProjectList.png)
+[![MPProjectList.png](/static/wp-content/uploads/2014/02/MPProjectList.png)](/static/wp-content/uploads/2014/02/MPProjectList.png)
 
 移动光标到到你需要载入的项目上，按回车即可载入。按d则删除项目。
 
@@ -58,7 +58,7 @@ draft = false
 
 输入":MPLoad "后按Tab可以自动补全项目列表中的项目。
 
-[![MPLoad.png](http://www.jiazhoulvke.com/wp-content/uploads/2014/02/MPLoad.png)](http://www.jiazhoulvke.com/wp-content/uploads/2014/02/MPLoad.png)
+[![MPLoad.png](/static/wp-content/uploads/2014/02/MPLoad.png)](/static/wp-content/uploads/2014/02/MPLoad.png)
 
 ### :MPSessionSave
 
@@ -74,7 +74,7 @@ draft = false
 
 输入":MPSessionLoad "后按Tab可以自动补全项目根目录中所有后缀为".session.vim"的文件名。
 
-[![MPSessionLoad.png](http://www.jiazhoulvke.com/wp-content/uploads/2014/02/MPSessionLoad.png)](http://www.jiazhoulvke.com/wp-content/uploads/2014/02/MPSessionLoad.png)
+[![MPSessionLoad.png](/static/wp-content/uploads/2014/02/MPSessionLoad.png)](/static/wp-content/uploads/2014/02/MPSessionLoad.png)
 
 ## 变量说明
 

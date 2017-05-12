@@ -26,7 +26,7 @@ wine迅雷下载一般的http资源是一点问题都没有的，速度也很快
 
 会出现这样的对话框:
 
-![winetricks](http://www.jiazhoulvke.com/wp-content/uploads/2013/01/Winetricks.png)
+![winetricks](/static/wp-content/uploads/2013/01/Winetricks.png)
 
 点"确定"，再点"Install a Windows DLL or component"，选择"ie6"，点"确定"，然后会弹出提示，让你去 [http://www.oldversion.com/windows/internet-explorer-6-0](http://www.oldversion.com/windows/internet-explorer-6-0) 这个地址下载ie6的安装文件放到_~/.cache/winetricks/ie6_里。
 

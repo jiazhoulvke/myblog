@@ -8,7 +8,7 @@ url = "/2012/01/06/e585b3e4ba8epathogene5ae89e8a385vbae58c85e79a84e997aee9a298/"
 draft = false
 +++
 
-在之前的[一篇文章](http://jiazhoulvke.com/?p=100)中我推荐了几款vim比较实用的插件，其中第一款就是pathogen，是的，虽然只有短短两百来行的代码，但就像我给它的评分一样：Life Changing。
+在之前的[一篇文章](http://www.jiazhoulvke.com/2011/07/05/vime68f92e4bbb6e68ea8e88d90/)中我推荐了几款vim比较实用的插件，其中第一款就是pathogen，是的，虽然只有短短两百来行的代码，但就像我给它的评分一样：Life Changing。
 
 为了解决文件混乱的问题vim搞出了vba这种格式，想法很好，但实际应用中效果却不能尽如人意。因为并非所有的插件发布者都会把插件打包成vba格式，很多都只是简单的压缩成zip或者tar.gz之类的压缩包，假如插件只有一个vim文件的话连压缩都不用了……
 

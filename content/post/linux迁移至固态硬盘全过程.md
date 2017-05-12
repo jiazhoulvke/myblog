@@ -21,9 +21,9 @@ draft = false
 
 本次的主角小黑和M6S:
 
-![](/img/IMG_20140921_095854.jpg)
+![](/static/img/IMG_20140921_095854.jpg)
 　　
-![](/img/IMG_20141026_160058.jpg)
+![](/static/img/IMG_20141026_160058.jpg)
 
 ###具体步骤###
 
@@ -109,11 +109,11 @@ chroot到固态硬盘的系统中:
 
 先在win7下用as ssd benchmark测试一下:
 
-![](/img/as-ssd-bench PLEXTOR PX-128M6 2014.10.26 19-47-52.png)
+![](/static/img/as-ssd-bench PLEXTOR PX-128M6 2014.10.26 19-47-52.png)
 
 写入稍微有点慢，没有台式机上的三星840EVO快，不过还能接受。
 
-![](/img/as-ssd-bench Samsung SSD 840  2014.6.11 19-03-57.png)
+![](/static/img/as-ssd-bench Samsung SSD 840  2014.6.11 19-03-57.png)
 
 再在ubuntu下用hdparm对比一下固态硬盘和机械硬盘的速度:
 

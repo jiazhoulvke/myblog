@@ -55,7 +55,7 @@ kpw的root密码为空，提示输入root密码时直接回车即可，然后它
     
     mntroot rw
 
-[![Screenshot-home-jiazhoulvke.png](http://www.jiazhoulvke.com/wp-content/uploads/2013/09/Screenshot-home-jiazhoulvke.png)](http://www.jiazhoulvke.com/wp-content/uploads/2013/09/Screenshot-home-jiazhoulvke.png)
+[![Screenshot-home-jiazhoulvke.png](/static/wp-content/uploads/2013/09/Screenshot-home-jiazhoulvke.png)](/static/wp-content/uploads/2013/09/Screenshot-home-jiazhoulvke.png)
 
 先将系统原来的屏保备份到kpw的/mnt/us(也就是通过U盘模式连接到电脑上时显示的kpw根目录)：
 
@@ -96,4 +96,4 @@ kpw的root密码为空，提示输入root密码时直接回车即可，然后它
 
 
 
-[![IMG_20130910_111300.jpg](http://www.jiazhoulvke.com/wp-content/uploads/2013/09/IMG_20130910_111300.jpg)](http://www.jiazhoulvke.com/wp-content/uploads/2013/09/IMG_20130910_111300.jpg)
+[![IMG_20130910_111300.jpg](/static/wp-content/uploads/2013/09/IMG_20130910_111300.jpg)](/static/wp-content/uploads/2013/09/IMG_20130910_111300.jpg)

@@ -19,6 +19,6 @@ googlecode:[http://jiazhoulvke.googlecode.com/files/colorpicker_for_vim.7z](http
 
 现在一切搞定了，打开vim，按Alt+C，就会弹出一个调色板了，hoho～～
 
-[![](http://jiazhoulvke.com/wp-content/uploads/2011/04/colorpicker.jpg)](http://jiazhoulvke.com/?attachment_id=71)
+[![](/static/wp-content/uploads/2011/04/colorpicker.jpg)](http://jiazhoulvke.com/?attachment_id=71)
 
 update:回去看了一下依云同学（colorpicker作者）博客的更新，才想起用windows的人基本都没装过gtk运行库的，失策啊，没这玩意是用不了colorpicker，赶紧的，去下载个gtk运行库吧！[http://gtk-win.sourceforge.net](http://gtk-win.sourceforge.net)

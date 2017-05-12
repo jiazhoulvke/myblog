@@ -66,7 +66,7 @@ windows下可以利用[mingw](http://www.mingw.org/)来编译。如果是64位�
 
 ### 最后附上我编译的vim74的截图
 
-[![Screenshot-ProjectPath-GVIM.png](http://www.jiazhoulvke.com/wp-content/uploads/2013/08/Screenshot-ProjectPath-GVIM.png)](http://www.jiazhoulvke.com/wp-content/uploads/2013/08/Screenshot-ProjectPath-GVIM.png)
+[![Screenshot-ProjectPath-GVIM.png](/static/wp-content/uploads/2013/08/Screenshot-ProjectPath-GVIM.png)](/static/wp-content/uploads/2013/08/Screenshot-ProjectPath-GVIM.png)
 
 ### 嫌自己编译麻烦？
 

@@ -8,6 +8,6 @@ url = "/2013/07/01/ripgoogle-reader/"
 draft = false
 +++
 
-[![google_reader_1](http://www.jiazhoulvke.com/wp-content/uploads/2013/07/google_reader_1.jpg)](http://www.jiazhoulvke.com/?attachment_id=223)
+[![google_reader_1](/static/wp-content/uploads/2013/07/google_reader_1.jpg)](http://www.jiazhoulvke.com/?attachment_id=223)
 
-[![google_reader_2](http://www.jiazhoulvke.com/wp-content/uploads/2013/07/google_reader_2.jpg)](http://www.jiazhoulvke.com/?attachment_id=224)
+[![google_reader_2](/static/wp-content/uploads/2013/07/google_reader_2.jpg)](http://www.jiazhoulvke.com/?attachment_id=224)

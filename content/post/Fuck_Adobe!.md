@@ -8,4 +8,4 @@ url = "/2013/08/13/fuck-adobe/"
 draft = false
 +++
 
-[![Screenshot-rxvt-unicode.png](http://www.jiazhoulvke.com/wp-content/uploads/2013/08/Screenshot-rxvt-unicode.png)](http://www.jiazhoulvke.com/wp-content/uploads/2013/08/Screenshot-rxvt-unicode.png)
+[![Screenshot-rxvt-unicode.png](/static/wp-content/uploads/2013/08/Screenshot-rxvt-unicode.png)](/static/wp-content/uploads/2013/08/Screenshot-rxvt-unicode.png)

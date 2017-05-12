@@ -24,10 +24,10 @@ mutt作为一个纯命令行的邮件客户端自然是没法直接查看html格
 
 我设置了&lt;super&gt;+M为唤出mutt的快捷键(super是linux下的windows键的叫法)，当我想发邮件或者查看邮件时按一下快捷键马上就能打开，比打开浏览器再点书签或者输网址不知快了多少倍。
 
-[![截图-2013年08月15日-20时36分26秒.png](http://www.jiazhoulvke.com/wp-content/uploads/2013/08/截图-2013年08月15日-20时36分26秒.png)](http://www.jiazhoulvke.com/wp-content/uploads/2013/08/截图-2013年08月15日-20时36分26秒.png)
+[![截图-2013年08月15日-20时36分26秒.png](/static/wp-content/uploads/2013/08/截图-2013年08月15日-20时36分26秒.png)](/static/wp-content/uploads/2013/08/截图-2013年08月15日-20时36分26秒.png)
 
 目前的使用还比较初级，宏什么的都还没来得及去研究，那才是mutt的精髓所在。
 
 最后秀一下mutt截图：
 
-[![截图-2013年08月15日-20时38分49秒.png](http://www.jiazhoulvke.com/wp-content/uploads/2013/08/截图-2013年08月15日-20时38分49秒.png)](http://www.jiazhoulvke.com/wp-content/uploads/2013/08/截图-2013年08月15日-20时38分49秒.png)
+[![截图-2013年08月15日-20时38分49秒.png](/static/wp-content/uploads/2013/08/截图-2013年08月15日-20时38分49秒.png)](/static/wp-content/uploads/2013/08/截图-2013年08月15日-20时38分49秒.png)
